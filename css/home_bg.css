@@ -1,0 +1,25 @@
+/* CSS Document */
+
+
+.slider_bg{
+	background: url('images/home_bg.jpg');
+	background-size: 100% 100%;
+}
+.slider{
+	padding: 4% 6%;
+}
+.slider_text{
+	text-align:center;
+	margin: 12% 0 16%; 
+}
+.slider_text h2{
+	font-size: 4em;
+	color:#ffffff;
+	text-transform:uppercase;
+}
+.slider_text h3{
+	font-size: 2.4em;
+	color: #ffffff;
+	width: 50%;
+	margin: 0 auto;
+	}
